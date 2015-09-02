@@ -1,7 +1,6 @@
 # Name: Jason Wang
 # Date: Dec. 23, 2011
-# Class: ICS3U1
-# Description: Summative - DEFEND YOUR BASE - Simple Shooter Game
+# Description: DEFEND YOUR BASE - Simple Shooter Game
 
 # This is a simple shooter game. The objective of the games is for the player to
 # survive incoming waves of zombies. The player can access to upgrade their 
@@ -715,7 +714,7 @@ def main():
         if bulletIndicator.colliderect(zombieIndicator):
             zombiesKilled += 1
             cash += 200
-            print zombiesKilled
+            print (zombiesKilled)
                 
         # Fill Screen Here
         drawScene()

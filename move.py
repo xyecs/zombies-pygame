@@ -1,7 +1,6 @@
-# Name: Jason
+# Name: Jason Wang
 # Date: Dec. 23, 2011
-# Class: ICS3U1
-# Description: Summative - DEFEND YOUR BASE
+# Description: DEFEND YOUR BASE - Simple Shooter Game
 
 # Import modules
 import random
